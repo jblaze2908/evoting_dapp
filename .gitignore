@@ -1,0 +1,4 @@
+node_modules
+voting_dapp/node_modules
+voting_dapp/build
+voting_dapp_server/node_modules
